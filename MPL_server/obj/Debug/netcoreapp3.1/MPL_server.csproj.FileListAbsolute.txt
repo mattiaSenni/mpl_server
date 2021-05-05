@@ -1,0 +1,13 @@
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\bin\Debug\netcoreapp3.1\MPL_server.exe
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\bin\Debug\netcoreapp3.1\MPL_server.deps.json
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\bin\Debug\netcoreapp3.1\MPL_server.runtimeconfig.json
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\bin\Debug\netcoreapp3.1\MPL_server.runtimeconfig.dev.json
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\bin\Debug\netcoreapp3.1\MPL_server.dll
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\bin\Debug\netcoreapp3.1\MPL_server.pdb
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\obj\Debug\netcoreapp3.1\MPL_server.csprojAssemblyReference.cache
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\obj\Debug\netcoreapp3.1\MPL_server.AssemblyInfoInputs.cache
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\obj\Debug\netcoreapp3.1\MPL_server.AssemblyInfo.cs
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\obj\Debug\netcoreapp3.1\MPL_server.csproj.CoreCompileInputs.cache
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\obj\Debug\netcoreapp3.1\MPL_server.dll
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\obj\Debug\netcoreapp3.1\MPL_server.pdb
+C:\Users\mattia.senni\Desktop\MPL_server\MPL_server\obj\Debug\netcoreapp3.1\MPL_server.genruntimeconfig.cache
